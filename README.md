@@ -34,5 +34,10 @@ Download the Netflix dataset from Kaggle or other data sources.
 Use Tableau or Power BI to load the dataset and visualize the content trends.
 Recreate the visualizations based on the available dataset using charts, maps, and other visual aids.
 
+# Future Enhancements
+- Incorporating sentiment analysis on user reviews for content to further understand viewer preferences.
+- Expanding the dataset to include 2021 and beyond to reflect recent changes in Netflix's content strategy.
+
+
 
 To navigate the data visit: Tableau  https://public.tableau.com/views/NetflixMoviesReportDashboard2022/NetflixMovies2022ReportDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
