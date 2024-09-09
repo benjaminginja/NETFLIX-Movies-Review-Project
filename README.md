@@ -15,7 +15,7 @@ This project focuses on creating a comprehensive data dashboard that visualizes 
 
 # Tools and Technologies Used
 Data Visualization: Tableau
-Data source= Netflix dataset containing information on movies and TV shows including genres, ratings, release dates, and country of origin.
+Data source- Netflix dataset containing information on movies and TV shows including genres, ratings, release dates, and country of origin.
 
 # Recommendations
 -Increase in TV Show Offerings: As TV shows tend to keep viewers engaged over a longer period, Netflix may want to increase its focus on original TV series to balance out the dominance of movies in its library.
